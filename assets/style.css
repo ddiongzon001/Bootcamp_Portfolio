@@ -5,6 +5,13 @@ h1.bluearea{
     text-align: center;
 }
 
+h1.bluearea_portfolio{
+    color:#F8F8F8;
+    padding: 5%;
+    text-align: center;
+
+}
+
 /* All Fonts in White; Sections */
 h2.whitearea{
     color:#808080;
@@ -32,5 +39,15 @@ p.about-me_nav{
 
 }
 
-/* About Me Profile_Header */
+/* Portfolio Styles */
+div.portfolio_col{
+    padding-top: 5%;
+    text-align: center;
+    background: #F8F8F8;
+
+}
+
+img.portfolio_col{
+    padding-bottom: 5%;
+}
 
