@@ -1,0 +1,36 @@
+/* All Fonts in Blue Sections */
+h1.bluearea{
+    color:#F8F8F8;
+    margin-top: 10%;
+    text-align: center;
+}
+
+/* All Fonts in White; Sections */
+h2.whitearea{
+    color:#808080;
+    margin-top: 20%;
+    margin-bottom: 20%;
+    text-align: center;
+}
+
+.whitearea{
+    color:#808080;
+    margin: 5%;
+    margin-bottom: 20%; 
+}
+
+
+/* Nav Bar Style */
+img.about-me_nav{
+    float: left;
+    margin: 5% 5% 10% 10%;
+}
+p.about-me_nav{
+    line-height: 1.6;
+    color: #F8F8F8;
+    margin: 5% 10% 10% 10%;
+
+}
+
+/* About Me Profile_Header */
+
